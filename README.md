@@ -1,4 +1,4 @@
-## Welcome to Zoe's Gold Award Site!
+# Welcome to Zoe's Gold Award Site!
 
 You can use the [editor on GitHub](https://github.com/zoe-hoksbergen/gold-award/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
