@@ -2,36 +2,17 @@
 
 Here you can learn all about Zoe's Girl Scout Gold Award.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who are you?
 
-### Markdown
+I'm a highschool junior who has been in Girl Scouts for 12 years 
+Have any questions? Visit my instagram at [Jekyll](https://jekyllrb.com/) to talk to me directly!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is you Gold Award about?
+
 
 ```markdown
-Syntax highlighted code block
+Here are my current plans:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zoe-hoksbergen/gold-award/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Research the trends of depression and anxiety in teenagers 
+- Format this research into a pamphlet/short book explaining how to recognize and cope with teenage depression and anxiety, including my own experience
+- Share this information to nearby highschools as well as make it available for free online (via Amazon or something similar)
