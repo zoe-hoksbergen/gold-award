@@ -7,6 +7,9 @@ Here you can learn all about Zoe's Girl Scout Gold Award.
 I'm a highschool junior who has been in Girl Scouts for 12 years 
 Have any questions? Visit my instagram at [Jekyll](https://jekyllrb.com/) to talk to me directly!
 
+![Me and my beautiful puppy Aiko](![20201222_131133](https://user-images.githubusercontent.com/91553995/135309382-4865130e-96da-46e1-9cd4-46fa93db3c6e.jpg)
+ "Zoe and Aiko"
+
 ![Here I am at a food drive!](![20201024_104903](https://user-images.githubusercontent.com/91553995/135305787-b83366a7-02ec-401f-88ad-beaf667334f9.jpg)
  "Girl Scout Food Drive"
 
