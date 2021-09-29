@@ -7,10 +7,13 @@ Here you can learn all about Zoe's Girl Scout Gold Award.
 I'm a highschool junior who has been in Girl Scouts for 12 years 
 Have any questions? Visit my instagram at [Jekyll](https://jekyllrb.com/) to talk to me directly!
 
+![Here I am at a food drive!](![20201024_104903](https://user-images.githubusercontent.com/91553995/135305787-b83366a7-02ec-401f-88ad-beaf667334f9.jpg)
+ "Girl Scout Food Drive"
+
 ### What is you Gold Award about?
 
 
-```markdown
+
 Here are my current plans:
 
 - Research the trends of depression and anxiety in teenagers 
